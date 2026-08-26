@@ -1,0 +1,6 @@
+{
+  "name": "اینکارت (InKart)",
+  "description": "سامانه هوشمند معرفی کسب‌وکارها، جستجوی شهری و صنفی، ویترین پیشرفته، کارت‌ساز پویا و پنل مدیریت چندنقشی",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
